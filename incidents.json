@@ -1,0 +1,15 @@
+[
+    {
+      "type": "Car Accident",
+      "location": "28.7041, 77.1025",
+      "timestamp": "6/4/2025, 9:19:21 pm",
+      "video": "/videos/car_crash.mp4"
+    },
+    {
+      "type": "Fire",
+      "location": "19.0760, 72.8777",
+      "timestamp": "6/4/2025, 9:20:00 pm",
+      "video": "/videos/fire_incident.mp4"
+    }
+  ]
+  

@@ -1,0 +1,8 @@
+router.get("/latest", (req, res) => {
+  res.json({
+    type: "Fire",
+    location: "28.7041, 77.1025",
+    timestamp: new Date().toLocaleString(),
+    video: "https://drive.google.com/drive/folders/1kPG5-1zj1Kg2lT_7KWFBr5Ei-_F5c7si?usp=sharing",
+  });
+});
